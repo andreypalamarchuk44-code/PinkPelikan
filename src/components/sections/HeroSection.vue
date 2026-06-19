@@ -56,7 +56,7 @@ import heroVideo from '@/assets/video/pool.mp4'
       <div class="hero__actions">
 
         <a
-          href="https://t.me/pink_pelikan_bot"
+          href="https://t.me/HappyDrop_Store"
           target="_blank"
           rel="noopener"
           class="btn btn--primary"
